@@ -1,0 +1,135 @@
+{
+  "customer": [
+    {
+      "id": 1,
+      "name": "Sunil",
+      "contactno": "9630357187",
+      "email": "thakursunil9630@gmail.com",
+      "password": "1234"
+    },
+    {
+      "name": "a",
+      "email": "a",
+      "contactno": "a",
+      "password": "a",
+      "id": 5
+    },
+    {
+      "name": "anil dangi",
+      "email": "dangianil12@gmail.com",
+      "contactno": "8877390092",
+      "password": "12345",
+      "id": 6
+    },
+    {
+      "name": "anup",
+      "email": "anup67@gmail.com",
+      "contactno": "8877898643",
+      "password": "1234",
+      "id": 7
+    },
+    {
+      "email": "dd",
+      "contactno": "d",
+      "password": "d",
+      "id": 8
+    },
+    {
+      "name": "s",
+      "id": 9
+    }
+  ],
+  "account": [
+    {
+      "id": 1,
+      "cus_id": 1,
+      "submit_amount": 6000,
+      "date": "20/08/23",
+      "withdraw_amount": 1000
+    },
+    {
+      "id": 2,
+      "cus_id": 1,
+      "submit_amount": 8000,
+      "date": "22/08/23",
+      "withdraw_amount": 2000
+    },
+    {
+      "id": 3,
+      "cus_id": 1,
+      "submit_amount": 7000,
+      "date": "19/07/23",
+      "withdraw_amount": 4000
+    },
+    {
+      "id": 4,
+      "cus_id": 2,
+      "submit_amount": 9000,
+      "date": "22/08/23",
+      "withdraw_amount": 4000
+    },
+    {
+      "id": 5,
+      "cus_id": 2,
+      "submit_amount": 7000,
+      "date": "19/07/23",
+      "withdraw_amount": 2000
+    },
+    {
+      "cus_id": "1",
+      "submit_amount": 0,
+      "date": "02/09/2023",
+      "withdraw_amount": "4000",
+      "id": 6
+    },
+    {
+      "cus_id": "6",
+      "submit_amount": "23000",
+      "date": "23/09/2023",
+      "withdraw_amount": 0,
+      "id": 7
+    },
+    {
+      "cus_id": "6",
+      "submit_amount": 0,
+      "date": "23/09/2023",
+      "withdraw_amount": "2000",
+      "id": 8
+    },
+    {
+      "cus_id": "6",
+      "submit_amount": 0,
+      "date": "23/09/2023",
+      "withdraw_amount": "2000",
+      "id": 9
+    },
+    {
+      "cus_id": "6",
+      "submit_amount": "4000",
+      "date": "23/09/2023",
+      "withdraw_amount": 0,
+      "id": 10
+    },
+    {
+      "cus_id": "6",
+      "submit_amount": "456",
+      "date": "23/09/2023",
+      "withdraw_amount": 0,
+      "id": 11
+    },
+    {
+      "cus_id": "1",
+      "submit_amount": "5600",
+      "date": "25/09/2023",
+      "withdraw_amount": 0,
+      "id": 12
+    },
+    {
+      "cus_id": "1",
+      "submit_amount": 0,
+      "date": "25/09/2023",
+      "withdraw_amount": "8000",
+      "id": 13
+    }
+  ]
+}
